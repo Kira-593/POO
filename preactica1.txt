@@ -1,7 +1,4 @@
-
-
-copy con preactica1.txt
-cd IdealProjects
+public class Main {
 public class Main {
     public static void main(String[] args) {
         System.out.printf("\tUniversidad Polit‚cnica de Tlaxcala.");
@@ -22,4 +19,3 @@ public class Main {
         System.out.printf("\n\tHola tilin");
     }
 }
-git add preactica1.txt
